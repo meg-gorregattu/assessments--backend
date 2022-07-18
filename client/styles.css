@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+}
+
+header {
+    color: lightcyan;
+    font-size: 50px;
+    display: flex; 
+    justify-content: center; 
+}
+

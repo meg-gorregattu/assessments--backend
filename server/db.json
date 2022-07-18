@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Money Trees",
+        "artist": "Kendrick Lamar",
+        "album": "good kid, m.A.A.d city",
+        "rating": "10"
+    },
+    {
+        "id": 2,
+        "title": "Bloodflood, pt. II",
+        "artist": "alt-J",
+        "album": "This Is All Yours",
+        "rating": "10"
+    },
+    {
+        "id": 3,
+        "title": "Undercover Martyn",
+        "artist": "Two Door Cinema Club",
+        "album": "Tourist History",
+        "rating": "10"
+    },
+    {
+        "id": 4,
+        "title": "Good Days",
+        "artist": "SZA",
+        "album": "Good Days",
+        "rating": "10"
+    },
+    {
+        "id": 5,
+        "title": "Dreams",
+        "artist": "Fleetwood Mac",
+        "album": "Rumours",
+        "rating": "10"
+    },
+    {
+        "id": 6,
+        "title": "Yayo",
+        "artist": "Lana Del Rey",
+        "album": "Born To Die - The Paradise Edition",
+        "rating": "10"
+    },
+    {
+        "id": 7,
+        "title": "The Hype",
+        "artist": "Twenty One Pilots",
+        "album": "Trench",
+        "rating": "10"
+    },
+    {
+        "id": 8,
+        "title": "Youth",
+        "artist": "Glass Animals",
+        "album": "How To Be A Human Being",
+        "rating": "10"
+    },
+    {
+        "id": 9,
+        "title": "The Less I Know The Better",
+        "artist": "Tame Impala",
+        "album": "Currents",
+        "rating": "10"
+    },
+    {
+        "id": 10,
+        "title": "Chanel",
+        "artist": "Frank Ocean",
+        "album": "Chanel",
+        "rating": "10"
+    }
+]
